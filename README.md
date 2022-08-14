@@ -14,6 +14,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
     - SMOTE
     - ClusterCentroids
     - SMOTEEN
+    - Balance Random Forest Classifer
+    - Easy Ensemble AdaBoost Classifer
   
 
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk
